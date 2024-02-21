@@ -2,7 +2,7 @@
 
 ![FireballVPN](https://github.com/Pawdroid/FireballVPN/blob/main/static/banner.png?raw=true)
 
-**免费使用，高速连接，跨平台支持，全球节点服务器。**
+**免费使用，高速连接，无限流量，跨平台支持，全球节点服务器。**
 
 ## 主要功能
 
