@@ -32,6 +32,7 @@ FireballVPN拥有强大的加密技术，确保您的数据传输安全可靠。
 
 ## Android 版本
 - [点击下载 Android 版本](https://github.com/Pawdroid/FireballVPN/releases/download/1.1.1/Fireball_VPN-1.2.0-meta-arm64-v8a-release.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.v2cross.meteorvpn)
 - [点击下载 Android 模拟器版本](https://github.com/Pawdroid/FireballVPN/releases/download/1.1.1/Fireball_VPN-1.2.0-meta-x86_64-release.apk)
 
 ## Linux 版本
